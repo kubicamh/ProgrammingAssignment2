@@ -1,6 +1,7 @@
 ## R functions to cache potentially time consuming opperations
 ## Assignment 2 of R Programing through Coursera/John Hopkins
 ## Instructors: Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
+## TA: Scott von Kleeck
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
